@@ -7,3 +7,6 @@
 3. Create your blog with Quarto - https://www.youtube.com/watch?v=xtSFXtDf4cM&ab_channel=PositPBC
 4. Some Bayesian stuff - either Statistical Rethinking 2023 or Bayes
 5. NLP - Reading club of NLP with Transformers.
+6. Pytorch learning:
+  - Patrick's Pytorch course - https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=1&ab_channel=PatrickLoeber
+  - https://www.learnpytorch.io/
